@@ -1,6 +1,10 @@
 # ard-memory-game
 Arduino memory game code
-check ou the youtube video for a demo https://www.youtube.com/watch?v=zAuerOaZ_Z8
+
+# Demo
+[![Memory Game](https://img.youtube.com/vi/zAuerOaZ_Z8/0.jpg)](https://www.youtube.com/watch?v=zAuerOaZ_Z8)
+
+
 
 # What I learned
  - Create ulta low operations code to run efficiently on a low compute resource system.
